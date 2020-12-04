@@ -48,6 +48,7 @@ body
 {
     font-size: 20 px;
 }
+<<<<<<< HEAD
 
 #post
 {
@@ -55,3 +56,12 @@ body
     padding: 1em;
 }
 
+=======
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
+>>>>>>> footer
